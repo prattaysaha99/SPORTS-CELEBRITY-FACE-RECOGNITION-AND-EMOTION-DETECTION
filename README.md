@@ -1,6 +1,8 @@
 # SPORTS-CELEBRITY-FACE-RECOGNITION-AND-EMOTION-DETECTION
 **SPORTS CELEBRITY FACE RECOGNITION AND EMOTION DETECTION**
 
+>[CLICK HERE](https://github.com/prattaysaha99/SPORTS-CELEBRITY-FACE-RECOGNITION-AND-EMOTION-DETECTION/blob/main/Project%20Report.pdf) TO READ THE PROJECT REPORT.
+
 Importance of face recognition systems has sped up in the last few decades. A face recognition system is one of biometric information processing. Applicability is easier and the working range is larger than other biometric information processing, i.e.; fingerprint, iris scanning, signature, etc. A face recognition system is designed, implemented and tested in this study. The system utilizes a combination of techniques in three topics;  face detection, recognition and emotion detection.The face detection is performed on five sport celebrity.process utilized in the system are face detection, facial feature extraction, emotion detection. Then a face detection model Face Detection(FP16) which is a floating point 16 version of the original caffe implementation. The system is tested with 10 people. The tested system has acceptable performance to recognize faces. System also capable of detecting and recognizing multiple faces in images.
 INTRODUCTION
 ​​		 	 	 					
