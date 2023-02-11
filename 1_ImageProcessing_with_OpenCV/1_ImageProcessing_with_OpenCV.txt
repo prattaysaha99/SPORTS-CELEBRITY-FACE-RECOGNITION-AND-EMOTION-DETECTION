@@ -1,0 +1,4 @@
+Author: Srikanth
+Source: Udemy.com
+Course URL: https://www.udemy.com/course/draft/4021172/?referralCode=976F3A2A4E1DFA345667
+Technologies:  Python, OpenCV, Machine Learning, Django, Heroku 
